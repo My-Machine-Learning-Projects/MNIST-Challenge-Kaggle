@@ -5,3 +5,5 @@ This repository contains code to solve the MNIST (Hand-written digit recognition
 From : http://blogs.mathworks.com/loren/2015/08/04/artificial-neural-networks-for-beginners/
 
 Refer the above link in case of problems/errors.
+
+Get train.csv and test.csv from https://www.kaggle.com/c/digit-recognizer/data
